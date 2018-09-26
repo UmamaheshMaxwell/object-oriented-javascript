@@ -14,7 +14,7 @@ console.log(obj2);
 let obj3 = {};
 console.log(obj3)
 
-// 4. Create Object using function
+// 4. Create Object using constructor function
 function Person() {}
 let obj4 = new Person();
 console.log(obj4);
