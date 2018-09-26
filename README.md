@@ -1,4 +1,4 @@
-# object-oriented-javascript
+# Object Oriented Javascript
 An object oriented javascript repository
 
 Here we are going to learn object oriented javascript 
